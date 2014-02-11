@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>964F18AC-AF79-4C72-A298-5F4C51141EF7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CodeTrial_Buttion</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>49324721-E8DB-409E-9777-86406D1C9948</key>
+		<string>https://github.com/at4k/Code-Trial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/CodeTrial_Buttion/CodeTrial_Buttion.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>49324721-E8DB-409E-9777-86406D1C9948</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/at4k/Code-Trial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>49324721-E8DB-409E-9777-86406D1C9948</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>49324721-E8DB-409E-9777-86406D1C9948</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Button</string>
+		</dict>
+	</array>
+</dict>
+</plist>
